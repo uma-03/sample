@@ -1,5 +1,6 @@
 This is a training on GIT HUB.
 GIT HUB is an implementation software for GIT.
 Editing the file...
+Learning about Pull
 
 Thank you
